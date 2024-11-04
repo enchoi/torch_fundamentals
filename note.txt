@@ -1,0 +1,28 @@
+morgangautherot
+
+Warning:
+narrow vs general
+chat vs real knowledge
+
+https://www.appliedai.de/en/
+
+Deep learning vs machine learning vs IA generative
+machine learning = données structurées !
+utilisation d'algo pour sortir les datas des images, texte ou autre pour extraire la feature.
+
+classification: faire un enum
+regression ()
+
+pytorch => fast.ai
+TensorFlaw => Keras
+
+
+split data in two to  have train and test data
+
+Get a l1loss (fonction de cout)
+
+make first prediction
+check errors
+use optimizer to compute step
+use backward on criterion (loss)
+optimize optimizer by adding step (opt.step())
